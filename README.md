@@ -6,6 +6,8 @@
 
 > 非 rknn 模型转换
 
+- onnx2rknn: https://github.com/edgeDLI-stack/rk-npu/blob/main/docs/onnx2rknn.md
+
 -   注意 RKNN-Toolkit2 目前版本适用系统`Ubuntu18.04(x64)`及以上
     -   开发板上无法直接安装
 -   安装在 ubuntu-1 上
