@@ -1,0 +1,16 @@
+*.rknn
+*.tflite
+*.bin
+*.onnx
+*.whl
+*.caffemodel
+*.pdf
+rknn-toolkit2-1.2.0/doc
+rknpu2/docs
+rknpu2/docs
+rknpu2/runtime
+rknpu2/examples/3rdparty
+install
+build
+imgs
+functions
