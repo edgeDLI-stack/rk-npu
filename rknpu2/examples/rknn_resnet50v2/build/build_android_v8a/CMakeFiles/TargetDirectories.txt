@@ -1,7 +1,0 @@
-/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/build/build_android_v8a/CMakeFiles/install/strip.dir
-/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/build/build_android_v8a/CMakeFiles/edit_cache.dir
-/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/build/build_android_v8a/CMakeFiles/rknn_resnet50v2_demo.dir
-/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/build/build_android_v8a/CMakeFiles/rebuild_cache.dir
-/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/build/build_android_v8a/CMakeFiles/list_install_components.dir
-/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/build/build_android_v8a/CMakeFiles/install/local.dir
-/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/build/build_android_v8a/CMakeFiles/install.dir
