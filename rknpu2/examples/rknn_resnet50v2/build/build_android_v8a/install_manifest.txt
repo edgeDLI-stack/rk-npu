@@ -1,0 +1,7 @@
+/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/install/rknn_resnet50v2_demo_Android/./rknn_resnet50v2_demo
+/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/install/rknn_resnet50v2_demo_Android/.//model/cat_224x224.jpg
+/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/install/rknn_resnet50v2_demo_Android/.//model/dog_224x224.jpg
+/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/install/rknn_resnet50v2_demo_Android/.//model/RK3588/mobilenet_v2.rknn
+/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/install/rknn_resnet50v2_demo_Android/.//model/RK3588/mobilenet_v1.rknn
+/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/install/rknn_resnet50v2_demo_Android/.//model/RK356X/mobilenet_v1.rknn
+/root/RK_NPU_SDK_1.2.0/release/rknpu2/examples/rknn_resnet50v2/install/rknn_resnet50v2_demo_Android/lib/librknnrt.so
